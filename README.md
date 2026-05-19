@@ -1,36 +1,28 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## Kishan Khodbhaya — AI Automation Engineer
 
-## Getting Started
+> I build production-ready AI systems that actually ship — from multi-agent LLM pipelines  
+> to backend APIs and real-time automation workflows.
 
-First, run the development server:
+**What I work with:**  
+`n8n` · `Python` · `Flask` · `Google Gemini` · `Pinecone` · `Selenium` · `MySQL`
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### 🚀 Featured Projects
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+**🤖 [AI Automation Workflows](https://github.com/kishan-khodbhaya/ai-automation-workflows)**  
+ChatOps engine · Voice agent · WhatsApp bot · Automated blog writer  
+*End-to-end LLM pipelines built for real-world deployment*
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+**🐍 [Python Backend Projects](https://github.com/kishan-khodbhaya/python-projects)**  
+REST APIs · RBAC systems · Desktop apps · Algorithmic trading bot  
+*Clean, maintainable backend systems across domains*
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+### 💼 Open to Opportunities
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+I'm actively looking for roles in **AI Engineering**, **Backend Development**, or **Automation**.  
+If you're building something ambitious, let's talk.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+📩 [khodbhaya1843@gmail.com](mailto:khodbhaya1843@gmail.com)
