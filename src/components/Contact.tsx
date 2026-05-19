@@ -118,9 +118,10 @@ export default function Contact() {
         {/* ── Footer ── */}
         <div className="border-t border-[#1a1a2e]" style={{ marginTop: 96, padding: "32px 0" }}>
           <div className="flex items-center justify-center text-xs text-[#71717a] tracking-wide">
-            <span>© 2026 Kishan Khodbhaya. All rights reserved.</span>
+            <span>© 2026 Kishan Khodbhaya. All rights reserved</span>
           </div>
         </div>
+      </div>
     </section>
   );
 }
