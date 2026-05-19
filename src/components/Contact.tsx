@@ -118,8 +118,7 @@ export default function Contact() {
         {/* ── Footer ── */}
         <div className="border-t border-[#1a1a2e]" style={{ marginTop: 96, padding: "32px 0" }}>
           <div className="flex flex-col sm:flex-row items-center justify-between text-xs text-[#71717a]" style={{ gap: 16 }}>
-            <span>© 2025 Kishan Khodbhaya</span>
-            <span className="font-mono">Built with Next.js + Framer Motion</span>
+            <span>© 2026 Kishan Khodbhaya</span>
           </div>
         </div>
       </div>
