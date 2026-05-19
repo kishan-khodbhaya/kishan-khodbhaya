@@ -117,11 +117,10 @@ export default function Contact() {
 
         {/* ── Footer ── */}
         <div className="border-t border-[#1a1a2e]" style={{ marginTop: 96, padding: "32px 0" }}>
-          <div className="flex flex-col sm:flex-row items-center justify-between text-xs text-[#71717a]" style={{ gap: 16 }}>
-            <span>© 2026 Kishan Khodbhaya</span>
+          <div className="flex items-center justify-center text-xs text-[#71717a] tracking-wide">
+            <span>© 2026 Kishan Khodbhaya. All rights reserved.</span>
           </div>
         </div>
-      </div>
     </section>
   );
 }
